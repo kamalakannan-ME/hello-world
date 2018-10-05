@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="lname" label="LName" language="en" table="x_123348_kamal1_lakshitha_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>lname</element>
+            <help/>
+            <hint/>
+            <label>LName</label>
+            <language>en</language>
+            <name>x_123348_kamal1_lakshitha_table</name>
+            <plural>LNames</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-05 06:34:28</sys_created_on>
+            <sys_id>35e3c8544f0123007df88020a310c787</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>LName</sys_name>
+            <sys_package display_value="Kamal1" source="x_123348_kamal1">76f040144f0123007df88020a310c74c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Kamal1">76f040144f0123007df88020a310c74c</sys_scope>
+            <sys_update_name>sys_documentation_x_123348_kamal1_lakshitha_table_lname_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-05 06:34:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
